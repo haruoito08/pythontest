@@ -1,0 +1,8 @@
+# p102_1a
+
+word = "カミュ"
+
+print (word  [0])
+print (word  [1])
+print (word  [2])
+
